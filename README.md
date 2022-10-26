@@ -15,7 +15,8 @@
 ![Visual Studio ](https://img.shields.io/badge/VS-black?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-black?&style=for-the-badge&logo=visual-studio-code)
 ## 🔍  Where to find me
-###### [![Linkedin: Berk Cinaz](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/berk-cinaz-3b60291bb/]([https://www.linkedin.com/in/berk-cinaz-3b60291bb/](https://www.linkedin.com/in/berk-cinaz-3b60291bb/)))]([[[[https://www.linkedin.com/in/berk-cinaz-3b60291bb/](https://www.linkedin.com/in/berk-cinaz-3b60291bb/)](https://www.linkedin.com/in/berk-cinaz-3b60291bb/)](https://www.linkedin.com/in/berk-cinaz-3b60291bb/)](https://www.linkedin.com/in/berk-cinaz-3b60291bb/)](https://www.linkedin.com/in/berk-cinaz-3b60291bb/)) [![GitHub BerkCinaz](https://img.shields.io/github/followers/berkcinazz?label=follow&style=social)](https://github.com/berkcinazz) 
+
+###### [![Linkedin: Berk Cinaz](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berk-cinaz-3b60291bb/)](https://www.linkedin.com/in/berk-cinaz-3b60291bb/) [![GitHub BerkCinaz](https://img.shields.io/github/followers/berkcinazz?label=follow&style=social)](https://github.com/berkcinazz) 
 
 ## 📊 Statistics
 #### ![visitors](https://visitor-badge.laobi.icu/badge?page_id=berkcinazz)
