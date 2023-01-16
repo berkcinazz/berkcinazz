@@ -20,4 +20,4 @@
 
 ## 📊 Statistics
 #### ![visitors](https://visitor-badge.laobi.icu/badge?page_id=berkcinazz)
-![stats](https://github-readme-stats.vercel.app/api?username=berkcinazz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=berkcinazz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
